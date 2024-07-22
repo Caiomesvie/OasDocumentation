@@ -1,5 +1,5 @@
 
-<img alt="Logo OAS" src="/docs/assets/OASLogo.svg">
+<img alt="Logo OAS" src="assets/OASLogo.svg">
 
 [GitHub](https://github.com/Caiomesvie/OasDocumentation)
 [Documentação](#OAS)
